@@ -1,16 +1,13 @@
-## Hi there 👋
+# Borjigin Mahgal
 
-<!--
-**Mahgal/Mahgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Khaan Superintelligence** — building [khaan.si](https://khaan.si), a mass-market AI answer engine whose answers carry checkable sources, and [HoardAds](https://hoardads.com), a curated directory of AI & crypto tools.
 
-Here are some ideas to get you started:
+## What I build
+- AI search & briefing systems with cited, verifiable answers
+- AI × crypto tooling, agents and data pipelines
+- Small, sharp open-source utilities — one useful thing per repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Elsewhere
+- X: [@Borjigin_Mahgal](https://x.com/Borjigin_Mahgal)
+- LinkedIn: [Mahagala Boerzhijin](https://www.linkedin.com/in/mahagala-boerzhijin-552953449)
+- Contact: admin@khaan.si
